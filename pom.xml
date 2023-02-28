@@ -9,6 +9,10 @@
     <name>spring-cloud-2022</name>
     <description>spring-cloud-2022</description>
 
+    <modules>
+        <module>spring-cloud-eureka1</module>
+    </modules>
+
     <properties>
         <java.version>1.17</java.version>
         <spring-cloud.version>2022.0.1</spring-cloud.version>
