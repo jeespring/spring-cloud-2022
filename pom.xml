@@ -11,6 +11,8 @@
 
     <modules>
         <module>spring-cloud-eureka1</module>
+        <module>spring-cloud-eureka2</module>
+        <module>spring-cloud-eureka3</module>
     </modules>
 
     <properties>
